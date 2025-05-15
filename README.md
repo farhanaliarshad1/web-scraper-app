@@ -19,7 +19,8 @@ A Python-based tool for extracting website content and generating professional b
 - **Packaging**: `pip`, `virtualenv`
 
 ## Installation 🛠️
-1. Clone the repository:
+
+## Clone the repository:
 ```bash
 git clone https://github.com/farhanaliarshad1/web-scraper-app.git
 cd web-scraper-app
