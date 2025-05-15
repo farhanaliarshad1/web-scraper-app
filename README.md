@@ -20,8 +20,8 @@ A Python-based tool for extracting website content and generating professional b
 
 ## Installation 🛠️
 
-## Clone the repository:
-```bash
+## Clone the repository: 
+
 git clone https://github.com/farhanaliarshad1/web-scraper-app.git
 cd web-scraper-app
 
