@@ -30,9 +30,9 @@ python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 venv\Scripts\activate  # Windows
 
-##Install dependencies:
+## Install dependencies:
 pip install -r requirements.txt
 
-##Start the Streamlit app:
+## Start the Streamlit app:
 streamlit run streamlit_app.py
 
