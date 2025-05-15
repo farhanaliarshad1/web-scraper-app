@@ -27,7 +27,8 @@ cd web-scraper-app
 
 ## Create and activate virtual environment:
 python -m venv venv
-source venv/bin/activate  # Linux/MacOS
+source venv/bin/activate  #Linux/MacOS
+
 venv\Scripts\activate  # Windows
 
 ## Install dependencies:
@@ -35,4 +36,5 @@ pip install -r requirements.txt
 
 ## Start the Streamlit app:
 streamlit run streamlit_app.py
+
 
