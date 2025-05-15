@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Environment files
+.env
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# Local data
+data/scraped/
+data/brochures/
+
+# System files
+.DS_Store
+Thumbs.db
