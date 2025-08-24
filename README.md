@@ -2,8 +2,6 @@
 
 A Python-based tool for extracting website content and generating professional brochures with AI analysis.
 
-![Demo Screenshot](![alt text](image.png))
-
 ## Features ✨
 - Website content scraping with intelligent filtering
 - AI-powered link analysis and categorization
